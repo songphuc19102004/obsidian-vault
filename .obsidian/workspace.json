@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f9b631a405fdfea3",
+        "id": "2b2ef5b6420ba8be",
         "type": "tabs",
         "children": [
           {
             "id": "2e28bf75dcf89264",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Golang/2. Fundamentals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Fundamentals"
             }
           }
         ]
@@ -159,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,16 +178,28 @@
   },
   "active": "2e28bf75dcf89264",
   "lastOpenFiles": [
+    "Pasted image 20250326181408.png",
     "Programming/Golang/2. Fundamentals.md",
+    "Pasted image 20250326180458.png",
+    "Pasted image 20250326175833.png",
+    "Pasted image 20250326175805.png",
+    "Pasted image 20250326175750.png",
+    "Programming/Golang/1. Introduction.md",
+    "image 3 5.png",
+    "README.md",
+    "image 3 4.png",
+    "Notion/Network.md",
+    "Notion/MAS291 FE.md",
+    "Notion/JPD123.md",
+    "Notion/Interview.md",
+    "Notion/Gitlab CI-CI.md",
+    "Notion/EXE101 Week 8.md",
+    "Notion/ENW492c.md",
+    "Notion/Azure/Azure.md",
+    "image 1 7.png",
+    "image 1 5.png",
     "Pasted image 20250326172600.png",
     "Pasted image 20250326172549.png",
-    "Pasted image 20250326172540.png",
-    "Pasted image 20250326172527.png",
-    "Pasted image 20250326172517.png",
-    "Pasted image 20250326172438.png",
-    "Pasted image 20250326172429.png",
-    "Pasted image 20250326172345.png",
-    "Pasted image 20250326172336.png",
     "Notion/ASP.NET CORE/JWT & Web API Authentication/JWT & Web API Authentication.md",
     "Notion/ASP.NET CORE/JWT & Web API Authentication/JWT & Web API Authentication/JWT & Web API Authentication.md",
     "Notion/ASP.NET CORE/JWT & Web API Authentication/Identity/Identity.md",
@@ -197,17 +213,6 @@
     "Notion/PRN212/Chapter 1 Introduction to .NET Platform/Chapter 1 Introduction to .NET Platform.md",
     "Notion/NET MVC Learning/Razor.md",
     "Notion/NET MVC Learning/Migration Folder.md",
-    "Notion/SWR302/SWR302.md",
-    "Notion/Clean Arch, DDD, and CQRS.md",
-    "Notion/ENW492c.md",
-    "Notion/EXE101 Week 8.md",
-    "Notion/Gitlab CI-CI.md",
-    "Notion/Interview.md",
-    "Notion/JPD123.md",
-    "Notion/NET MVC Learning/NET MVC Learning.md",
-    "Notion/NET MVC Learning/Data Folder.md",
-    "Notion/NET MVC Learning/Controllers Folder.md",
-    "Notion/ASP.NET CORE/Advanced C Concept/Advanced C Concept.md",
-    "Notion/ASP.NET CORE/Dependency Injection/Dependency Injection.md"
+    "Notion/SWR302/SWR302.md"
   ]
 }
