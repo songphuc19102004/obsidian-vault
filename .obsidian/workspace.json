@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "1bc37ebe4b419766",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9b631a405fdfea3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e28bf75dcf89264",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d160f4d5619eebc",
+    "type": "split",
+    "children": [
+      {
+        "id": "91701570d5e7e704",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0dd829cdb637ad7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a1b26715c014f6d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "057252c3ec807ee2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7aafe86ec2c7053b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0a82f3880c2d7d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfafb01c60c668b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8e46f6c0b0543d34",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "802edfb210f851ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e0617c27000a3c27",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "cefd78e38aab6012",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2e28bf75dcf89264",
+  "lastOpenFiles": [
+    "Programming/Golang/2. Fundamentals.md",
+    "Pasted image 20250326172600.png",
+    "Pasted image 20250326172549.png",
+    "Pasted image 20250326172540.png",
+    "Pasted image 20250326172527.png",
+    "Pasted image 20250326172517.png",
+    "Pasted image 20250326172438.png",
+    "Pasted image 20250326172429.png",
+    "Pasted image 20250326172345.png",
+    "Pasted image 20250326172336.png",
+    "Notion/ASP.NET CORE/JWT & Web API Authentication/JWT & Web API Authentication.md",
+    "Notion/ASP.NET CORE/JWT & Web API Authentication/JWT & Web API Authentication/JWT & Web API Authentication.md",
+    "Notion/ASP.NET CORE/JWT & Web API Authentication/Identity/Identity.md",
+    "Notion/DSA LeetCode/Stack.md",
+    "Notion/DSA LeetCode/Recursive.md",
+    "Notion/DSA LeetCode/DSA LeetCode.md",
+    "Notion/DSA LeetCode/Linked List/Linked List.md",
+    "Notion/DSA LeetCode/Array and Hashing/Array and Hashing.md",
+    "Notion/PRN212/Chapter 4- Collections and Generics/Chapter 4- Collections and Generics.md",
+    "Notion/PRN212/Chapter 2- C Programming/Chapter 2- C Programming.md",
+    "Notion/PRN212/Chapter 1 Introduction to .NET Platform/Chapter 1 Introduction to .NET Platform.md",
+    "Notion/NET MVC Learning/Razor.md",
+    "Notion/NET MVC Learning/Migration Folder.md",
+    "Notion/SWR302/SWR302.md",
+    "Notion/Clean Arch, DDD, and CQRS.md",
+    "Notion/ENW492c.md",
+    "Notion/EXE101 Week 8.md",
+    "Notion/Gitlab CI-CI.md",
+    "Notion/Interview.md",
+    "Notion/JPD123.md",
+    "Notion/NET MVC Learning/NET MVC Learning.md",
+    "Notion/NET MVC Learning/Data Folder.md",
+    "Notion/NET MVC Learning/Controllers Folder.md",
+    "Notion/ASP.NET CORE/Advanced C Concept/Advanced C Concept.md",
+    "Notion/ASP.NET CORE/Dependency Injection/Dependency Injection.md"
+  ]
+}

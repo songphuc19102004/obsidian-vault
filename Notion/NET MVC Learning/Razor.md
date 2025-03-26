@@ -1,0 +1,1 @@
+Razor hỗ trợ C# và dùng @ để chuyển HTML sang C#, evaluates C# expression và chuyển về HTML output

@@ -1,0 +1,1 @@
+# For creating simple and page-focused web application

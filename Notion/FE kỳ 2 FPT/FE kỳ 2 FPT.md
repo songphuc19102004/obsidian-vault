@@ -1,0 +1,21 @@
+**==LỊCH THI==**
+
+- [x] PRO192(15/7) (PE), DATE OF MARK: 27/7
+- [ ] PRO192(**WEDNESDAY/26/7**) (FE) (**10:50 - 12:20**) DATE OF MARK: 29/7
+- [ ] SSG104(**SATURDAY/29/7**) (**07:30 - 08:10**) DATE OF MARK: 2/8
+- [ ] OSG202(**SATURDAY/29/7**) (**14:30 - 16:00**) DATE OF MARK: 2/8
+- [ ] MAD101(**SUNDAY/30/7**) (**09:10 - 10:40**) DATE OF MARK: 3/8
+
+  
+
+==**PRIORITIES**==: OSG202 → SSG104 → PRO192 → MAD101
+
+  
+
+  
+
+  
+
+  
+
+[[PRO192 FE]]
