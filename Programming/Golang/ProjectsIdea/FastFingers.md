@@ -1,0 +1,1 @@
+Using Go to make a CLI app to help typing faster with 10 fingers, including special characters.
