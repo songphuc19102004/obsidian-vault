@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0ec8215ae39de3cc",
+        "id": "c11a51e4e271edb0",
         "type": "tabs",
         "children": [
           {
@@ -176,10 +176,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89c3037f5faa0c80",
+  "active": "f0dd829cdb637ad7",
   "lastOpenFiles": [
-    "Programming/Golang/2. Fundamentals.md",
+    "Programming/Golang/Images/range-result.png",
     "Programming/Golang/3. Types.md",
+    "Programming/Golang/2. Fundamentals.md",
     "Programming/Golang/Images/structure-anonymous.png",
     "Programming/Golang/Images/slices-recap.png",
     "Programming/Golang/Images/slices-multidimensional-visualize.png",
