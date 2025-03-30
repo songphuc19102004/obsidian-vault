@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2b2ef5b6420ba8be",
+        "id": "2082c4800e51b113",
         "type": "tabs",
         "children": [
           {
-            "id": "2e28bf75dcf89264",
+            "id": "89c3037f5faa0c80",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Programming/Golang/3. Types.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "3. Types"
             }
           }
         ]
@@ -176,26 +176,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e28bf75dcf89264",
+  "active": "f0dd829cdb637ad7",
   "lastOpenFiles": [
-    "Programming/Golang/ProjectsIdea/FastFingers.md",
-    "Programming/Golang/ProjectsIdea",
+    "Programming/Golang/Images/structure-recap.png",
+    "Programming/Golang/Images/anonymous-structures-1.png",
+    "Programming/Golang/3. Types.md",
+    "Programming/Golang/Images/structure-definition.png",
+    "Programming/Golang/1. Introduction.md",
+    "Programming/Golang/3. Types",
+    "Programming/Golang/2. Fundamentals.md",
+    "Programming/Golang/ProjectsIdea/fast-fingers.md",
     "Programming/Golang/Images/loop-recap.png",
     "Programming/Golang/Images/loop-definition.png",
+    "Programming/Golang/ProjectsIdea",
     "Programming/Golang/Images",
+    "Programming/Images/2. Fundamentals/loops-definition.png",
     "Pasted image 20250329153102.png",
-    "Programming/Golang/MyProjectsIdea/Keyhelper.md",
-    "Programming/Golang/2. Fundamentals.md",
-    "Programming/Golang/MyProjectsIdea",
+    "Programming/Images/2. Fundamentals",
+    "Programming/Images",
     "Pasted image 20250326181408.png",
     "Pasted image 20250326180458.png",
     "Pasted image 20250326175833.png",
     "Pasted image 20250326175805.png",
-    "Pasted image 20250326175750.png",
-    "Programming/Golang/1. Introduction.md",
-    "image 3 5.png",
     "README.md",
-    "image 3 4.png",
     "Notion/Network.md",
     "Notion/MAS291 FE.md",
     "Notion/JPD123.md",
@@ -215,7 +218,6 @@
     "Notion/PRN212/Chapter 4- Collections and Generics/Chapter 4- Collections and Generics.md",
     "Notion/PRN212/Chapter 2- C Programming/Chapter 2- C Programming.md",
     "Notion/PRN212/Chapter 1 Introduction to .NET Platform/Chapter 1 Introduction to .NET Platform.md",
-    "Notion/NET MVC Learning/Razor.md",
-    "Notion/NET MVC Learning/Migration Folder.md"
+    "Notion/NET MVC Learning/Razor.md"
   ]
 }
