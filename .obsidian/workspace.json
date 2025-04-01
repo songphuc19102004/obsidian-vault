@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c11a51e4e271edb0",
+        "id": "a029ca2e30dffb77",
         "type": "tabs",
         "children": [
           {
@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Golang/3. Types.md",
+                "file": "Programming/Golang/4. Idiomatic Go.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Types"
+              "title": "4. Idiomatic Go"
             }
           }
         ]
@@ -178,19 +178,21 @@
   },
   "active": "f0dd829cdb637ad7",
   "lastOpenFiles": [
+    "Programming/Golang/Images/receiver-function-recap.png",
+    "Programming/Golang/Images/receiver-function-value.png",
+    "Programming/Golang/Images/receiver-function-receiver.png",
+    "Programming/Golang/4. Idiomatic Go.md",
+    "Programming/Golang/Images/receiver-function-regular.png",
+    "Programming/Golang/Images/receiver-function-definition.png",
+    "Programming/Golang/3. Types.md",
+    "Programming/Golang/Idiomatic Go",
     "Programming/Golang/Images/pointer-recap.png",
     "Programming/Golang/Images/pointer-visualization.png",
     "Programming/Golang/Images/pointer-using.png",
     "Programming/Golang/Images/pointer-create.png",
     "Programming/Golang/Images/pointer-definition.png",
     "Programming/Golang/Images/pointer-memory.png",
-    "Programming/Golang/Images/map-recap.png",
-    "Programming/Golang/Images/map-operation.png",
-    "Programming/Golang/Images/map-definition.png",
-    "Programming/Golang/Images/range-result.png",
-    "Programming/Golang/3. Types.md",
     "Programming/Golang/2. Fundamentals.md",
-    "Programming/Golang/Images/structure-anonymous.png",
     "Programming/Golang/1. Introduction.md",
     "Programming/Golang/3. Types",
     "Programming/Golang/ProjectsIdea/fast-fingers.md",
@@ -217,7 +219,6 @@
     "Notion/DSA LeetCode/Array and Hashing/Array and Hashing.md",
     "Notion/PRN212/Chapter 4- Collections and Generics/Chapter 4- Collections and Generics.md",
     "Notion/PRN212/Chapter 2- C Programming/Chapter 2- C Programming.md",
-    "Notion/PRN212/Chapter 1 Introduction to .NET Platform/Chapter 1 Introduction to .NET Platform.md",
-    "Notion/NET MVC Learning/Razor.md"
+    "Notion/PRN212/Chapter 1 Introduction to .NET Platform/Chapter 1 Introduction to .NET Platform.md"
   ]
 }
