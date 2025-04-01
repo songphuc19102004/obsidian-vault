@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a029ca2e30dffb77",
+        "id": "33d9117971ca843f",
         "type": "tabs",
         "children": [
           {
-            "id": "89c3037f5faa0c80",
+            "id": "d5c8460604c856bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -176,22 +176,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0dd829cdb637ad7",
+  "active": "d5c8460604c856bd",
   "lastOpenFiles": [
+    "Programming/Golang/Images/iota-recap.png",
+    "Programming/Golang/4. Idiomatic Go.md",
+    "Programming/Golang/Images/iota-enumeration2.png",
+    "Programming/Golang/Images/iota-enumeration.png",
+    "Programming/Golang/Images/Pasted image 20250402031801.png",
+    "Programming/Golang/Images/iota-value-skip.png",
+    "Programming/Golang/Images/iota-forms.png",
+    "Programming/Golang/Images/iota-definition.png",
     "Programming/Golang/Images/receiver-function-recap.png",
     "Programming/Golang/Images/receiver-function-value.png",
     "Programming/Golang/Images/receiver-function-receiver.png",
-    "Programming/Golang/4. Idiomatic Go.md",
-    "Programming/Golang/Images/receiver-function-regular.png",
-    "Programming/Golang/Images/receiver-function-definition.png",
     "Programming/Golang/3. Types.md",
     "Programming/Golang/Idiomatic Go",
-    "Programming/Golang/Images/pointer-recap.png",
-    "Programming/Golang/Images/pointer-visualization.png",
-    "Programming/Golang/Images/pointer-using.png",
-    "Programming/Golang/Images/pointer-create.png",
-    "Programming/Golang/Images/pointer-definition.png",
-    "Programming/Golang/Images/pointer-memory.png",
     "Programming/Golang/2. Fundamentals.md",
     "Programming/Golang/1. Introduction.md",
     "Programming/Golang/3. Types",
