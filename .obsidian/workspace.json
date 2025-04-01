@@ -176,8 +176,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5c8460604c856bd",
+  "active": "f0dd829cdb637ad7",
   "lastOpenFiles": [
+    "Programming/Golang/Images/text-formatting-recap.png",
+    "Programming/Golang/Images/text-formatting-escape-seq.png",
+    "Programming/Golang/Images/text-formatting-printf.png",
+    "Programming/Golang/Images/text-formatting-fmt.png",
     "Programming/Golang/Images/iota-recap.png",
     "Programming/Golang/4. Idiomatic Go.md",
     "Programming/Golang/Images/iota-enumeration2.png",
@@ -186,9 +190,6 @@
     "Programming/Golang/Images/iota-value-skip.png",
     "Programming/Golang/Images/iota-forms.png",
     "Programming/Golang/Images/iota-definition.png",
-    "Programming/Golang/Images/receiver-function-recap.png",
-    "Programming/Golang/Images/receiver-function-value.png",
-    "Programming/Golang/Images/receiver-function-receiver.png",
     "Programming/Golang/3. Types.md",
     "Programming/Golang/Idiomatic Go",
     "Programming/Golang/2. Fundamentals.md",
