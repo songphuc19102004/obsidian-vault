@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "33d9117971ca843f",
+        "id": "2b2ef5b6420ba8be",
         "type": "tabs",
         "children": [
           {
-            "id": "d5c8460604c856bd",
+            "id": "2e28bf75dcf89264",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Golang/4. Idiomatic Go.md",
+                "file": "Notion/SWD392/FE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Idiomatic Go"
+              "title": "FE"
             }
           }
         ]
@@ -176,30 +176,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0dd829cdb637ad7",
+  "active": "2e28bf75dcf89264",
   "lastOpenFiles": [
-    "Programming/Golang/Images/text-formatting-recap.png",
-    "Programming/Golang/Images/text-formatting-escape-seq.png",
-    "Programming/Golang/Images/text-formatting-printf.png",
-    "Programming/Golang/Images/text-formatting-fmt.png",
-    "Programming/Golang/Images/iota-recap.png",
-    "Programming/Golang/4. Idiomatic Go.md",
-    "Programming/Golang/Images/iota-enumeration2.png",
-    "Programming/Golang/Images/iota-enumeration.png",
-    "Programming/Golang/Images/Pasted image 20250402031801.png",
-    "Programming/Golang/Images/iota-value-skip.png",
-    "Programming/Golang/Images/iota-forms.png",
-    "Programming/Golang/Images/iota-definition.png",
-    "Programming/Golang/3. Types.md",
-    "Programming/Golang/Idiomatic Go",
-    "Programming/Golang/2. Fundamentals.md",
-    "Programming/Golang/1. Introduction.md",
-    "Programming/Golang/3. Types",
+    "Notion/SWD392/Images/Pasted image 20250404033506.png",
+    "Notion/SWD392/Images/Pasted image 20250403202250.png",
+    "Notion/SWD392/Images/Pasted image 20250403195821.png",
+    "Notion/SWD392/Images/Pasted image 20250403195244.png",
+    "Notion/SWD392/Images/Pasted image 20250403194737.png",
+    "Notion/SWD392/Images/Pasted image 20250403194732.png",
+    "Notion/SWD392/Images/Pasted image 20250403180510.png",
+    "Notion/SWD392/Images/Pasted image 20250403180508.png",
+    "Notion/SWD392/Images/Pasted image 20250403180459.png",
+    "Notion/SWD392/Images",
+    "Notion/SWD392/FE.md",
+    "Notion/SWD392",
+    "Untitled",
     "Programming/Golang/ProjectsIdea/fast-fingers.md",
+    "Programming/Golang/Images/text-formatting-recap.png",
+    "Programming/Golang/Images/text-formatting-printf.png",
+    "Programming/Golang/4. Idiomatic Go.md",
+    "Programming/Golang/3. Types.md",
+    "Programming/Golang/ProjectsIdea/FastFingers.md",
     "Programming/Golang/ProjectsIdea",
     "Programming/Golang/Images",
-    "Programming/Images/2. Fundamentals",
-    "Programming/Images",
+    "Programming/Golang/MyProjectsIdea/Keyhelper.md",
+    "Programming/Golang/2. Fundamentals.md",
+    "Programming/Golang/MyProjectsIdea",
+    "Programming/Golang/1. Introduction.md",
     "README.md",
     "Notion/Network.md",
     "Notion/MAS291 FE.md",
@@ -216,9 +219,6 @@
     "Notion/DSA LeetCode/Recursive.md",
     "Notion/DSA LeetCode/DSA LeetCode.md",
     "Notion/DSA LeetCode/Linked List/Linked List.md",
-    "Notion/DSA LeetCode/Array and Hashing/Array and Hashing.md",
-    "Notion/PRN212/Chapter 4- Collections and Generics/Chapter 4- Collections and Generics.md",
-    "Notion/PRN212/Chapter 2- C Programming/Chapter 2- C Programming.md",
-    "Notion/PRN212/Chapter 1 Introduction to .NET Platform/Chapter 1 Introduction to .NET Platform.md"
+    "Notion/DSA LeetCode/Array and Hashing/Array and Hashing.md"
   ]
 }
