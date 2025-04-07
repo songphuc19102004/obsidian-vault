@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Golang/4. Idiomatic Go.md",
+                "file": "Programming/Golang/3. Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Idiomatic Go"
+              "title": "3. Types"
             }
           }
         ]
@@ -176,20 +176,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0dd829cdb637ad7",
+  "active": "d5c8460604c856bd",
   "lastOpenFiles": [
-    "Programming/Golang/Images/init-func-notes.png",
-    "Programming/Golang/Images/init-func-example2.png",
-    "Programming/Golang/Images/init-func-example.png",
-    "Programming/Golang/Images/init-func-definition.png",
     "Programming/Golang/4. Idiomatic Go.md",
-    "Notion/SWD392/Images/Pasted image 20250404033506.png",
-    "Notion/SWD392/Images/Pasted image 20250403202250.png",
-    "Notion/SWD392/Images/Pasted image 20250403195821.png",
-    "Notion/SWD392/Images/Pasted image 20250403195244.png",
-    "Notion/SWD392/Images/Pasted image 20250403194737.png",
-    "Notion/SWD392/Images/Pasted image 20250403194732.png",
-    "Notion/SWD392/Images/Pasted image 20250403180510.png",
+    "Programming/Golang/Images/testing-recap.png",
+    "Programming/Golang/Images/testing-test-tables-run.png.png",
+    "Programming/Golang/Images/testing-test-tables-example.png",
+    "Programming/Golang/Images/testing-test-tables.png",
+    "Programming/Golang/Images/testing-available-functions.png",
+    "Programming/Golang/Images/testing-run.png",
+    "Programming/Golang/Images/testing-setup-example2.png",
+    "Programming/Golang/Images/testing-setup-example.png",
+    "Programming/Golang/Images/testing-setup.png",
+    "Programming/Golang/Images/testing-definition.png",
     "Notion/SWD392/Images",
     "Notion/SWD392/FE.md",
     "Notion/SWD392",
