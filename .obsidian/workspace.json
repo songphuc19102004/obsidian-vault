@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2b2ef5b6420ba8be",
+        "id": "33d9117971ca843f",
         "type": "tabs",
         "children": [
           {
-            "id": "2e28bf75dcf89264",
+            "id": "d5c8460604c856bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/SWD392/FE.md",
+                "file": "Programming/Golang/4. Idiomatic Go.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FE"
+              "title": "4. Idiomatic Go"
             }
           }
         ]
@@ -176,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e28bf75dcf89264",
+  "active": "cefd78e38aab6012",
   "lastOpenFiles": [
     "Notion/SWD392/Images/Pasted image 20250404033506.png",
     "Notion/SWD392/Images/Pasted image 20250403202250.png",
@@ -190,19 +190,19 @@
     "Notion/SWD392/Images",
     "Notion/SWD392/FE.md",
     "Notion/SWD392",
-    "Untitled",
-    "Programming/Golang/ProjectsIdea/fast-fingers.md",
     "Programming/Golang/Images/text-formatting-recap.png",
-    "Programming/Golang/Images/text-formatting-printf.png",
+    "Programming/Golang/Images/text-formatting-escape-seq.png",
     "Programming/Golang/4. Idiomatic Go.md",
     "Programming/Golang/3. Types.md",
-    "Programming/Golang/ProjectsIdea/FastFingers.md",
+    "Programming/Golang/Idiomatic Go",
+    "Programming/Golang/2. Fundamentals.md",
+    "Programming/Golang/1. Introduction.md",
+    "Programming/Golang/3. Types",
+    "Programming/Golang/ProjectsIdea/fast-fingers.md",
     "Programming/Golang/ProjectsIdea",
     "Programming/Golang/Images",
-    "Programming/Golang/MyProjectsIdea/Keyhelper.md",
-    "Programming/Golang/2. Fundamentals.md",
-    "Programming/Golang/MyProjectsIdea",
-    "Programming/Golang/1. Introduction.md",
+    "Programming/Images/2. Fundamentals",
+    "Programming/Images",
     "README.md",
     "Notion/Network.md",
     "Notion/MAS291 FE.md",
@@ -219,6 +219,8 @@
     "Notion/DSA LeetCode/Recursive.md",
     "Notion/DSA LeetCode/DSA LeetCode.md",
     "Notion/DSA LeetCode/Linked List/Linked List.md",
-    "Notion/DSA LeetCode/Array and Hashing/Array and Hashing.md"
+    "Notion/DSA LeetCode/Array and Hashing/Array and Hashing.md",
+    "Notion/PRN212/Chapter 4- Collections and Generics/Chapter 4- Collections and Generics.md",
+    "Notion/PRN212/Chapter 2- C Programming/Chapter 2- C Programming.md"
   ]
 }
