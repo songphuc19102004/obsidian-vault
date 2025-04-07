@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "33d9117971ca843f",
+        "id": "b9b7b501805d8173",
         "type": "tabs",
         "children": [
           {
@@ -176,8 +176,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cefd78e38aab6012",
+  "active": "d5c8460604c856bd",
   "lastOpenFiles": [
+    "Programming/Golang/4. Idiomatic Go.md",
     "Notion/SWD392/Images/Pasted image 20250404033506.png",
     "Notion/SWD392/Images/Pasted image 20250403202250.png",
     "Notion/SWD392/Images/Pasted image 20250403195821.png",
@@ -191,8 +192,6 @@
     "Notion/SWD392/FE.md",
     "Notion/SWD392",
     "Programming/Golang/Images/text-formatting-recap.png",
-    "Programming/Golang/Images/text-formatting-escape-seq.png",
-    "Programming/Golang/4. Idiomatic Go.md",
     "Programming/Golang/3. Types.md",
     "Programming/Golang/Idiomatic Go",
     "Programming/Golang/2. Fundamentals.md",
