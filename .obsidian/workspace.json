@@ -176,8 +176,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5c8460604c856bd",
+  "active": "f0dd829cdb637ad7",
   "lastOpenFiles": [
+    "Programming/Golang/Images/init-func-notes.png",
+    "Programming/Golang/Images/init-func-example2.png",
+    "Programming/Golang/Images/init-func-example.png",
+    "Programming/Golang/Images/init-func-definition.png",
     "Programming/Golang/4. Idiomatic Go.md",
     "Notion/SWD392/Images/Pasted image 20250404033506.png",
     "Notion/SWD392/Images/Pasted image 20250403202250.png",
@@ -186,12 +190,9 @@
     "Notion/SWD392/Images/Pasted image 20250403194737.png",
     "Notion/SWD392/Images/Pasted image 20250403194732.png",
     "Notion/SWD392/Images/Pasted image 20250403180510.png",
-    "Notion/SWD392/Images/Pasted image 20250403180508.png",
-    "Notion/SWD392/Images/Pasted image 20250403180459.png",
     "Notion/SWD392/Images",
     "Notion/SWD392/FE.md",
     "Notion/SWD392",
-    "Programming/Golang/Images/text-formatting-recap.png",
     "Programming/Golang/3. Types.md",
     "Programming/Golang/Idiomatic Go",
     "Programming/Golang/2. Fundamentals.md",
