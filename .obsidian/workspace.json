@@ -11,14 +11,14 @@
             "id": "d5c8460604c856bd",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Programming/Golang/4. Idiomatic Go.md",
-                "bFile": "Programming/Golang/4. Idiomatic Go.md",
-                "aRef": ""
+                "file": "Programming/Golang/4. Interfaces In Go.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 4. Idiomatic Go"
+              "icon": "lucide-file",
+              "title": "4. Interfaces In Go"
             }
           }
         ]
@@ -176,20 +176,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5c8460604c856bd",
+  "active": "f0dd829cdb637ad7",
   "lastOpenFiles": [
+    "Programming/Golang/Images/interfaces-recap.png",
+    "Programming/Golang/Images/interfaces-access-implementing-type.png",
+    "Programming/Golang/Images/interfaces-example.png",
+    "Programming/Golang/Images/interfaces-pointer-receiver-implementation2.png",
+    "Programming/Golang/Images/interfaces-pointer-receiver-implementation.png",
+    "Programming/Golang/Images/interfaces-notes.png",
+    "Programming/Golang/Images/interfaces-definition.png",
+    "Programming/Golang/4. Interfaces In Go.md",
     "Programming/Golang/4. Idiomatic Go.md",
     "Programming/Golang/3. Types.md",
     "Programming/Golang/Images/testing-recap.png",
     "Programming/Golang/Images/testing-test-tables-run.png.png",
     "Programming/Golang/Images/testing-test-tables-example.png",
     "Programming/Golang/Images/testing-test-tables.png",
-    "Programming/Golang/Images/testing-available-functions.png",
-    "Programming/Golang/Images/testing-run.png",
-    "Programming/Golang/Images/testing-setup-example2.png",
-    "Programming/Golang/Images/testing-setup-example.png",
-    "Programming/Golang/Images/testing-setup.png",
-    "Programming/Golang/Images/testing-definition.png",
     "Notion/SWD392/Images",
     "Notion/SWD392/FE.md",
     "Notion/SWD392",
@@ -219,7 +221,6 @@
     "Notion/DSA LeetCode/DSA LeetCode.md",
     "Notion/DSA LeetCode/Linked List/Linked List.md",
     "Notion/DSA LeetCode/Array and Hashing/Array and Hashing.md",
-    "Notion/PRN212/Chapter 4- Collections and Generics/Chapter 4- Collections and Generics.md",
-    "Notion/PRN212/Chapter 2- C Programming/Chapter 2- C Programming.md"
+    "Notion/PRN212/Chapter 4- Collections and Generics/Chapter 4- Collections and Generics.md"
   ]
 }
