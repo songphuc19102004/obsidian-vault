@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e7586c49baf959ff",
+        "id": "6f4c9470514802c4",
         "type": "tabs",
         "children": [
           {
@@ -178,6 +178,11 @@
   },
   "active": "f0dd829cdb637ad7",
   "lastOpenFiles": [
+    "Programming/Golang/Images/defer-example.png",
+    "Programming/Golang/Images/defer-stack.png",
+    "Programming/Golang/Images/defer-how-it-works.png",
+    "Programming/Golang/Images/defer-definition.png",
+    "Programming/Golang/6. Concurrent Programming.md",
     "Programming/Golang/Images/function-literal-recap.png",
     "Programming/Golang/Images/function-literal-type-alias.png",
     "Programming/Golang/Images/function-literal-closure2.png",
@@ -187,11 +192,6 @@
     "Programming/Golang/Images/function-literals-definition.png",
     "Programming/Golang/5. Interfaces In Go.md",
     "Programming/Golang/4. Idiomatic Go.md",
-    "Programming/Golang/6. Concurrent Programming.md",
-    "Programming/Golang/Images/generics-recap.png",
-    "Programming/Golang/Images/generics-structure.png",
-    "Programming/Golang/Images/generics-built-in-constraints.png",
-    "Programming/Golang/Images/generics-approximation.png",
     "Programming/Golang/3. Types.md",
     "Notion/SWD392/Images",
     "Notion/SWD392/FE.md",
