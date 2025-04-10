@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b9b7b501805d8173",
+        "id": "e7586c49baf959ff",
         "type": "tabs",
         "children": [
           {
@@ -167,6 +167,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "copilot:Open Copilot Chat": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -178,17 +179,18 @@
   },
   "active": "f0dd829cdb637ad7",
   "lastOpenFiles": [
-    "Programming/Golang/Images/error-handliing-recap.png",
-    "Programming/Golang/Images/error-handling-working-with-errors2.png",
+    "Programming/Golang/Images/reader-writer-recap.png",
+    "Programming/Golang/Images/reader-writer-writer.png",
+    "Programming/Golang/Images/reader-writer-bufio-scanner.png",
+    "Programming/Golang/Images/reader-writer-bufio.png",
+    "Programming/Golang/Images/Pasted image 20250410074309.png",
     "Programming/Golang/4. Interfaces In Go.md",
-    "Programming/Golang/Images/error-handling-working-with-errors.png",
-    "Programming/Golang/Images/error-handling-usage.png",
-    "Programming/Golang/Images/error-handling-basics.png",
-    "Programming/Golang/Images/error-handling-definition.png",
-    "Programming/Golang/Images/interfaces-recap.png",
-    "Programming/Golang/Images/interfaces-access-implementing-type.png",
-    "Programming/Golang/Images/interfaces-example.png",
-    "Programming/Golang/Images/interfaces-pointer-receiver-implementation2.png",
+    "Programming/Golang/Images/reader-writer-reader-walkthrough.png.png",
+    "Programming/Golang/Images/reader-writer-reader-example.png",
+    "Programming/Golang/Images/reader-writer-reader.png",
+    "Programming/Golang/Images/reader-writer-definition.png",
+    "Programming/Golang/Images/error-handling-recap.png",
+    "Programming/Golang/Images/error-handling-working-with-errors2.png",
     "Programming/Golang/4. Idiomatic Go.md",
     "Programming/Golang/3. Types.md",
     "Notion/SWD392/Images",
