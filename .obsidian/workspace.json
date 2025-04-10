@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Golang/4. Interfaces In Go.md",
+                "file": "Programming/Golang/6. Concurrent Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Interfaces In Go"
+              "title": "6. Concurrent Programming"
             }
           }
         ]
@@ -178,19 +178,20 @@
   },
   "active": "f0dd829cdb637ad7",
   "lastOpenFiles": [
+    "Programming/Golang/Images/function-literal-recap.png",
+    "Programming/Golang/Images/function-literal-type-alias.png",
+    "Programming/Golang/Images/function-literal-closure2.png",
+    "Programming/Golang/Images/function-literal-closure.png",
+    "Programming/Golang/Images/functional-literal-as-func-param.png",
+    "Programming/Golang/Images/function-literals-anonymous-func.png",
+    "Programming/Golang/Images/function-literals-definition.png",
+    "Programming/Golang/5. Interfaces In Go.md",
+    "Programming/Golang/4. Idiomatic Go.md",
+    "Programming/Golang/6. Concurrent Programming.md",
     "Programming/Golang/Images/generics-recap.png",
     "Programming/Golang/Images/generics-structure.png",
     "Programming/Golang/Images/generics-built-in-constraints.png",
     "Programming/Golang/Images/generics-approximation.png",
-    "Programming/Golang/Images/generics-constraints-type-aliases.png",
-    "Programming/Golang/Images/generics-create-constraint.png",
-    "Programming/Golang/Images/generics-syntax-example.png",
-    "Programming/Golang/Images/generics-syntax.png",
-    "Programming/Golang/Images/generics-definition.png",
-    "Programming/Golang/Images/type-embedding-recap.png",
-    "Programming/Golang/Images/type-embedding-structs-example2.png.png",
-    "Programming/Golang/4. Interfaces In Go.md",
-    "Programming/Golang/4. Idiomatic Go.md",
     "Programming/Golang/3. Types.md",
     "Notion/SWD392/Images",
     "Notion/SWD392/FE.md",
@@ -220,7 +221,6 @@
     "Notion/DSA LeetCode/Recursive.md",
     "Notion/DSA LeetCode/DSA LeetCode.md",
     "Notion/DSA LeetCode/Linked List/Linked List.md",
-    "Notion/DSA LeetCode/Array and Hashing/Array and Hashing.md",
-    "Notion/PRN212/Chapter 4- Collections and Generics/Chapter 4- Collections and Generics.md"
+    "Notion/DSA LeetCode/Array and Hashing/Array and Hashing.md"
   ]
 }
