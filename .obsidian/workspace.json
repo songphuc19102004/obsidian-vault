@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6f4c9470514802c4",
+        "id": "c2baae5a2bc121d0",
         "type": "tabs",
         "children": [
           {
-            "id": "d5c8460604c856bd",
+            "id": "26cca0f72291b240",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -178,27 +178,28 @@
   },
   "active": "f0dd829cdb637ad7",
   "lastOpenFiles": [
-    "Programming/Golang/Images/goroutines-recap.png",
-    "Programming/Golang/5. Interfaces In Go.md",
+    "Programming/Golang/Images/channels-recap.png",
+    "Programming/Golang/Images/channels-timeouts.png",
+    "Programming/Golang/Images/channels-selection.png",
+    "Programming/Golang/Images/channels-control-channel.png",
+    "Programming/Golang/Images/channels-unidirectional-channel.png",
     "Programming/Golang/6. Concurrent Programming.md",
-    "Programming/Golang/Images/goroutines-example-closures.png",
-    "Programming/Golang/Images/goroutines-example-basic.png",
-    "Programming/Golang/Images/goroutines-definition.png",
-    "Programming/Golang/Images/concurrent-programming-recap.png.png",
-    "Programming/Golang/Images/concurrent-programming-details.png",
-    "Programming/Golang/Images/concurrent-programming-asynchronous-execution.png",
-    "Programming/Golang/Images/concurrency-threaded-execution.png",
-    "Programming/Golang/Images/concurrency-definition.png",
-    "Programming/Golang/Images/defer-example.png",
-    "Programming/Golang/Images/defer-stack.png",
+    "Programming/Golang/Images/channels-buffered-channel.png",
+    "Programming/Golang/Images/channels-details.png",
     "Programming/Golang/4. Idiomatic Go.md",
+    "Programming/Golang/7. Advanced concepts.md",
+    "Programming/Golang/5. Interfaces In Go.md",
+    "Programming/Golang/1. Introduction.md",
     "Programming/Golang/3. Types.md",
+    "Programming/Golang/2. Fundamentals.md",
+    "async.png",
+    "arraybuffer 2.png",
+    "Docker_Containers.png",
+    "Programming/Golang/Images/channels-creation-usage.png",
     "Notion/SWD392/Images",
     "Notion/SWD392/FE.md",
     "Notion/SWD392",
     "Programming/Golang/Idiomatic Go",
-    "Programming/Golang/2. Fundamentals.md",
-    "Programming/Golang/1. Introduction.md",
     "Programming/Golang/3. Types",
     "Programming/Golang/ProjectsIdea/fast-fingers.md",
     "Programming/Golang/ProjectsIdea",
@@ -220,7 +221,6 @@
     "Notion/DSA LeetCode/Stack.md",
     "Notion/DSA LeetCode/Recursive.md",
     "Notion/DSA LeetCode/DSA LeetCode.md",
-    "Notion/DSA LeetCode/Linked List/Linked List.md",
-    "Notion/DSA LeetCode/Array and Hashing/Array and Hashing.md"
+    "Notion/DSA LeetCode/Linked List/Linked List.md"
   ]
 }
