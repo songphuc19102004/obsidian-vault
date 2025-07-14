@@ -178,6 +178,8 @@
   },
   "active": "e7fcf75f65c6374d",
   "lastOpenFiles": [
+    "Programming/Network/Images/privateip.webp",
+    "Programming/Network/Images",
     "Programming/Golang/2. Fundamentals.md",
     "Programming/Network/TCP-IP.md",
     "Programming/Golang/6. Concurrent Programming.md",
@@ -221,7 +223,6 @@
     "Notion/ASP.NET CORE/JWT & Web API Authentication/Identity/Identity.md",
     "Notion/DSA LeetCode/Stack.md",
     "Notion/DSA LeetCode/Recursive.md",
-    "Notion/DSA LeetCode/DSA LeetCode.md",
-    "Notion/DSA LeetCode/Linked List/Linked List.md"
+    "Notion/DSA LeetCode/DSA LeetCode.md"
   ]
 }

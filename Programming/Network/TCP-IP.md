@@ -84,6 +84,51 @@ TCP/IP version 4, Transmission Control Protocol / Internet Protocol
 - 192.168.1.1 is 4 octets. _ _ _ _
 - An octet begins with 1 and ends at 128 with the power of 2 (1, 2, 4, 8, 16,...)
 - An IP Address is between 1-254. Because if we add all of the octets together, its' range is 0-255. So why 1-254? Because the address ending in .0 (e.g., 192.168.1.0) is reserved as the ***network address***. This address identifies the subnet itself and cannot be assigned to device. The address ending in .255 is reserved as broadcast address for the subnet. This address is used to send data to all hosts on that subnet simultaneously and also cannot be assigned to a device.
+- Octets value - 2 (minus 2, subtract by 2) for number of hosts, because the lower number is Subnet, Higher is Broadcast
+### Issues with subnet
+Subnet mask is wherever the 1 ends.
+               192                   168                  1            |         1
+IP Address: _ _ _ _ _ _ _ _ . _ _ _ _ _ _ _ _ _ .  _ _ _ _ _ _ _ _ | _ _ _ _ _ _ _ _
+Subnet:       1 1 1 1 1 1 1 1 . 1 1 1 1 1 1 1 1 1 . 1 1 1 1 1 1 1 1 | 0
+- Here subnet is 255.255.255.0, and the IP Address is 192.168.1.1, then the 192.168.1 will be the network part.
+- Subnet classes:
+	- Class A: 255.0.0.0 (can have 1-254 devices)
+	- Class B: 255.255.0.0 (...)
+	- Class C: 255.255.255.0 (...)
 
 
+# Private IP Address Blocks
+#### Non Internet Routable
 
+> What if Bob creates a 192.168.1.x network and Tim, from different location, also creates a 192.168.1.x network? Is that going to crash the entire internet?
+
+-> No, because we have ***Private IPv4 Address Blocks***.
+- these are blocks of addresses that are not internet routable.
+![[privateip.webp]]
+- Avoid configure to those IP Address.
+
+# Switches and ARP
+- Switches are layer 2 networking.
+- Switches contain MAC Address Tables.
+- ARP - Address Resolution Protocol - Resolves MAC Address to IP Address
+- ARP map IP Address to MAC Address. ARP is used to find MAC Address from IP Address. This could be an issue in caching when IP Address changed but MAC Address is still the same.
+
+# TCP Ports
+- Once the computers have found each other, with IP and ARP,... Ports  will be for communication.
+- Think ***ports*** as the ***doors in an office suite***. IP Address is the address to the building, Ports is basically the address to the particular room (services) we want in the building.
+- SMTP - 25
+- HTTP - 80
+- HTTPS - 443
+- FTP - 20
+- SSH - 22
+
+# Routers and Default Gateways
+- Routers connect Networks together.
+- Default Gateway is basically Router, Modem (or we could say it's the Internal IP Address of them). When we try to look for a website, e.g, cnn.com, it will call out to every device it can possibly see in the Switch. The Router connects networks. The external IP Address would be what the internet see, the WAN sees. If we can't find cnn.com within the Switch, the communication will be routed to whatever we state as Default Gateway is, and the Router will try to figure out how to route.
+- When we use IP Addresses, we can only talk to anything that within our network.
+	- 192.168.1.x can only communicate to 192.168.1.y
+	- 192.168.2.x cannot communicate to 192.168.1.x
+
+# Modems
+- Router is a piece of Ethernet equipment.
+- A Modem is a device that ***translate*** different types of data communication systems.
